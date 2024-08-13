@@ -98,7 +98,6 @@ This project uses various ensemble methods to predict whether a patient has canc
 <!-- Model Overview -->
 ## :chart_with_upwards_trend: Model Overview
 
-```python
 ### Decision Tree
 A simple model that splits the dataset into different branches to make decisions. It serves as the baseline model.
 
