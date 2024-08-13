@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://cdn.svgator.com/images/2022/11/Chart-run-cycle.gif" alt="Banner GIF" width="100%" />
+</div>
+
+
 👋 Welcome to My Data Science Portfolio!
 
 ## A bit about me 
