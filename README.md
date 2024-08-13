@@ -6,14 +6,12 @@
 
 
 ## Contact
-<div align="center">
-  <a href="https://www.linkedin.com/in/medhi-balouka-5a5342189/" style="text-decoration: none; color: black;">
-    <img src="Images/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" width="40" style="vertical-align: middle;"/>
-    <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 24px; font-weight: bold; vertical-align: middle;">
-      Connect with Me on LinkedIn
-    </span>
-  </a>
-</div>
+<p align="left">
+  <img src="Images/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" width="40" style="vertical-align: middle;"/>
+  <span style="font-size: 18px; vertical-align: middle;">
+    <a href="https://www.linkedin.com/in/medhi-balouka-5a5342189/" style="text-decoration: none; color: black;">Follow me on LinkedIn</a>
+  </span>
+</p>
 
 
 ---
