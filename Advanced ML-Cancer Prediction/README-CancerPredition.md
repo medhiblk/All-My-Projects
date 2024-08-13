@@ -6,13 +6,14 @@ Don't forget to connect with me on LinkedIn ;)
 -->
 <div align="center">
 
-  <img src="https://example.com/logo.png" alt="logo" width="200" height="auto" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="Python Logo" width="80" height="auto" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IJhNVZ2UNFUlsJoPlVH3I_xuPqBVTa1GRA&s" alt="Scikit-learn Logo" width="80" height="auto" />
+  <img src="https://ih1.redbubble.net/image.5124540665.7259/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="Pandas Logo" width="80" height="auto" />
   <h1>Cancer Prediction Using Ensemble Methods</h1>
   
   <p>
     A Python project demonstrating cancer prediction using various ensemble machine learning methods.
   </p>
-  
   
 <!-- Badges -->
 <p>
@@ -72,30 +73,6 @@ This project uses various ensemble methods to predict whether a patient has canc
 - Implementation of multiple models: Decision Tree, Random Forest, AdaBoost, and Stacking.
 - Evaluation metrics for model performance including accuracy, precision, recall, and F1-score.
 
-- ## Ensemble Learning Techniques
-
-### 1. Stacking
-Stacking is an ensemble learning technique that combines multiple models via a meta-classifier. Each base model is trained on the complete dataset, and the meta-model is trained on the outputs of these base models as features.
-
-![Stacking Process](https://editor.analyticsvidhya.com/uploads/38738stacking-process.png)
-
-### 2. AdaBoost
-AdaBoost is a boosting ensemble technique that sequentially trains models, with each focusing on correcting the errors of the previous ones.
-
-![AdaBoost](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1542651255/image_2_pu8tu6.png)
-
-### 3. Random Forest
-Random Forest is an ensemble method that builds multiple decision trees and merges them together to get a more accurate and stable prediction.
-
-![Random Forest](https://media.geeksforgeeks.org/wp-content/uploads/20240701170624/Random-Forest-Algorithm.webp)
-
-### 4. Bagging
-Bagging (Bootstrap Aggregating) involves training multiple models on different subsets of the data and then averaging their predictions for a more robust result.
-
-![Bagging](https://your-uploaded-image-link.png)
-
-
-<!-- Installation -->
 ## :gear: Installation
 
 1. Clone the repository:
@@ -134,28 +111,22 @@ A boosting method that combines weak learners to create a strong classifier. Foc
 An advanced ensemble method that combines the predictions of multiple models (Random Forest, AdaBoost, Decision Tree) using a meta-learner (Logistic Regression) to enhance prediction accuracy.
 
 <!-- Architecture -->
-:house: Architecture
-The project is built around a single Python script, Sklearn-CancerPrediction.py, which handles data loading, preprocessing, model training, and evaluation. The script is designed to be modular, allowing for easy adaptation to other datasets or model types.
+## :house: Architecture
+The project is built around a single Python script, `Sklearn-CancerPrediction.py`, which handles data loading, preprocessing, model training, and evaluation. The script is designed to be modular, allowing for easy adaptation to other datasets or model types.
 
 <!-- Contributing -->
-:wave: Contributing
+## :wave: Contributing
 At this time, this project is developed and maintained solely by Medhi Balouka. Contributions are not being accepted, but feel free to reach out for any inquiries or collaboration ideas.
 
 <!-- License -->
-:warning: License
+## :warning: License
 This project is licensed under TBS Education. For more details, please visit TBS Education.
 
 <!-- Contact -->
-:handshake: Contact
-Medhi Balouka - LinkedIn
+## :handshake: Contact
+Medhi Balouka - [LinkedIn](https://www.linkedin.com/in/medhi-balouka-5a5342189/)
 
 <!-- Acknowledgements -->
-:gem: Acknowledgements
+## :gem: Acknowledgements
 This project was developed as part of my coursework at TBS Education.
 Special thanks to the open-source community for providing the tools and libraries used in this project.
-markdown
-
-### Key Points:
-- **Project Links:** -> note forme: Updated to point to my GitHub project.
-- **Model Overview:** Encased within a Python code block for clarity.
-- **Contribution:** I am the sole contributor of this project, reach out to me on LinkedIn if you have any questions!
