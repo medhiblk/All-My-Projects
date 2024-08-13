@@ -1,12 +1,9 @@
-<div style="position: relative; text-align: center; color: white;">
-  <!-- Background GIF -->
-  <img src="https://cdn.svgator.com/images/2022/11/Chart-run-cycle.gif" alt="Banner GIF" style="width: 100%; filter: blur(8px); -webkit-filter: blur(8px);">
-
-  <!-- Text overlay -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <h1 style="font-size: 3em;">👋 Welcome to My Data Science Portfolio!</h1>
-  </div>
+<div align="center">
+  <img src="https://cdn.svgator.com/images/2022/11/Chart-run-cycle.gif" alt="Banner GIF" width="100%" />
 </div>
+
+<h1 align="center">👋 Welcome to My Data Science Portfolio!</h1>
+
 
 
 ## A bit about me 
