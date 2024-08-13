@@ -3,11 +3,14 @@
 ## A bit about me 
 I'm excited to share my achievements in AI, Data Science, and Blockchain through this GitHub repository. With over 20 Data Science projects completed during my studies, where I achieved a grade of 17/20, I thought it would be valuable to showcase some of my favorite work here.
 
-### Contact
+## Contact
 
-If you want to connect with me, feel free to reach out on LinkedIn:
-
-[![LinkedIn](Images/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif)](https://www.linkedin.com/in/medhi-balouka-5a5342189/)
+<p align="left">
+  <img src="Images/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" width="40"/>
+  <span style="font-size: 18px; vertical-align: middle;">
+    If you want to connect with me, feel free to reach out on <a href="https://www.linkedin.com/in/medhi-balouka-5a5342189/">LinkedIn</a>.
+  </span>
+</p>
 
 
 
