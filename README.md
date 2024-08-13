@@ -33,6 +33,13 @@ For now, I've just started uploading a few projects, and I'll be continuously ad
 
 ## 📈 Featured Projects
 
+### Cancer Prediction Using Ensemble Methods
+- **Cancer Prediction Using Ensemble Methods**  
+This project uses various ensemble methods to predict whether a patient has cancer based on medical data. It leverages models like Random Forest, AdaBoost, and Stacking to improve prediction accuracy.
+
+  [View the Cancer Prediction Project Here](https://github.com/medhiblk/All-My-Projects/tree/main/Advanced%20ML-Cancer%20Prediction)
+
+
 ### GPTs
 - **JuriBot - Your French Law Assistant**  
 If you're looking for assistance with French laws, you can use **JuriBot**, an AI model trained specifically on French legal texts. This GPT-powered assistant can help you navigate complex legal issues, answer questions, and provide relevant legal information.
