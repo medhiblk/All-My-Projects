@@ -6,7 +6,9 @@
 
 <div align="center">
 
-[![LinkedIn](Images/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif)](https://www.linkedin.com/in/medhi-balouka-5a5342189/)
+  <a href="https://www.linkedin.com/in/medhi-balouka-5a5342189/">
+    <img src="Images/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" width="40"/>
+  </a>
 
 </div>
 
@@ -56,7 +58,4 @@ Feel free to explore the repository and check out my [LinkedIn](https://www.link
 
 <div align="center">
 
-[![LinkedIn](Images/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif)](https://www.linkedin.com/in/medhi-balouka-5a5342189/)
-
-</div>
-
+  <a href="https://
