@@ -72,6 +72,29 @@ This project uses various ensemble methods to predict whether a patient has canc
 - Implementation of multiple models: Decision Tree, Random Forest, AdaBoost, and Stacking.
 - Evaluation metrics for model performance including accuracy, precision, recall, and F1-score.
 
+- ## Ensemble Learning Techniques
+
+### 1. Stacking
+Stacking is an ensemble learning technique that combines multiple models via a meta-classifier. Each base model is trained on the complete dataset, and the meta-model is trained on the outputs of these base models as features.
+
+![Stacking Process](https://editor.analyticsvidhya.com/uploads/38738stacking-process.png)
+
+### 2. AdaBoost
+AdaBoost is a boosting ensemble technique that sequentially trains models, with each focusing on correcting the errors of the previous ones.
+
+![AdaBoost](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1542651255/image_2_pu8tu6.png)
+
+### 3. Random Forest
+Random Forest is an ensemble method that builds multiple decision trees and merges them together to get a more accurate and stable prediction.
+
+![Random Forest](https://media.geeksforgeeks.org/wp-content/uploads/20240701170624/Random-Forest-Algorithm.webp)
+
+### 4. Bagging
+Bagging (Bootstrap Aggregating) involves training multiple models on different subsets of the data and then averaging their predictions for a more robust result.
+
+![Bagging](https://your-uploaded-image-link.png)
+
+
 <!-- Installation -->
 ## :gear: Installation
 
