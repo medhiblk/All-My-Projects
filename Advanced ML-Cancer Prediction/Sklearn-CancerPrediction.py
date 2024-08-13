@@ -17,8 +17,7 @@ from sklearn.metrics import classification_report
 
 # Load the dataset - Adjusting for Flake8 line length
 df = pd.read_csv(
-    "/Users/medhi/Desktop/Etudes : Scolarité/TBS - 2021-2024/Cours/MSc AIBA/"
-    "UE4 - AI/4.2/Individual Project/CancerPrediction.csv"
+    "Advanced ML-Cancer Prediction/CancerPrediction.csv"
 )
 
 # Display the first few rows of the dataframe
