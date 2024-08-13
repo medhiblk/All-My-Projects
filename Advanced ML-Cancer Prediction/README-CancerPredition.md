@@ -101,14 +101,30 @@ This project uses various ensemble methods to predict whether a patient has canc
 ### Decision Tree
 A simple model that splits the dataset into different branches to make decisions. It serves as the baseline model.
 
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5139/5139787.png" alt="Decision Tree Icon" width="100" height="auto" />
+</div>
+
 ### Random Forest
 An ensemble method using multiple decision trees. It improves accuracy by averaging the predictions of several trees.
+
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXI9mwWSorpzKPxiF8o7nMiMfCvF8-1UtCHA&s" alt="Random Forest Icon" width="100" height="auto" />
+</div>
 
 ### AdaBoost
 A boosting method that combines weak learners to create a strong classifier. Focuses on instances that previous models classified incorrectly.
 
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*tLUhrb27BKMtXAXRfy15Vw.png" alt="AdaBoost Schema" width="100%" height="auto" />
+</div>
+
 ### Stacking
 An advanced ensemble method that combines the predictions of multiple models (Random Forest, AdaBoost, Decision Tree) using a meta-learner (Logistic Regression) to enhance prediction accuracy.
+
+<div align="center">
+  <img src="https://your-image-link-for-stacking.png" alt="Stacking Icon" width="100" height="auto" />
+</div>
 
 <!-- Architecture -->
 ## :house: Architecture
