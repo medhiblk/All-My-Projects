@@ -20,9 +20,17 @@ Blockchain Explorations: My experiments and findings in the blockchain space.
 Predictive Modeling: Including analyses like tweet predictions and health diagnostics.
 
 🌟 Featured Projects
-Health Coach Assistant: A personalized health tool that tracks your diet, suggests meals, and helps maintain a balanced nutrition.
-Legal Assistant: A GPT-powered assistant that helps navigate complex legal questions.
-Trump Tweet Prediction: An analysis of social media data to predict patterns in public discourse.
+
+## GPTs
+### Additional Resources
+
+#### JuriBot - Your French Law Assistant
+If you're looking for assistance with French laws, you can use **JuriBot**, an AI model trained specifically on French legal texts. This GPT-powered assistant can help you navigate complex legal issues, answer questions, and provide relevant legal information.
+
+[Try JuriBot Here](https://chatgpt.com/g/g-i0qAN3WiP-juribot-france)
+
+
+---
 
 🎯 My Vision
 This repository is not just a collection of code; it's a reflection of my dedication to learning and applying Data Science across various domains. I'll continue to enhance this portfolio, adding more detailed explanations and organized code.
