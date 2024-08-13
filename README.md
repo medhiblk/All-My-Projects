@@ -1,9 +1,13 @@
-<div align="center">
-  <img src="https://cdn.svgator.com/images/2022/11/Chart-run-cycle.gif" alt="Banner GIF" width="100%" />
+<div style="position: relative; text-align: center; color: white;">
+  <!-- Background GIF -->
+  <img src="https://cdn.svgator.com/images/2022/11/Chart-run-cycle.gif" alt="Banner GIF" style="width: 100%; filter: blur(8px); -webkit-filter: blur(8px);">
+
+  <!-- Text overlay -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h1 style="font-size: 3em;">👋 Welcome to My Data Science Portfolio!</h1>
+  </div>
 </div>
 
-
-👋 Welcome to My Data Science Portfolio!
 
 ## A bit about me 
 I'm excited to share my achievements in AI, Data Science, and Blockchain through this GitHub repository. With over 20 Data Science projects completed during my studies, where I achieved a grade of 17/20, I thought it would be valuable to showcase some of my favorite work here.
