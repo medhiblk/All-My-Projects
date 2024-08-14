@@ -39,26 +39,28 @@ pip install -r requirements.txt
 * Data Preprocessing: Includes handling of missing values, label encoding, and scaling.
 * Neural Network Models: Multiple architectures with varying complexities, including models with single and multiple hidden layers.
 * Performance Metrics: Training and validation accuracy, as well as loss comparison across models.
+
+
 ## 🧠 Model Overview
 ### Model 1: Single Hidden Layer
 A basic neural network with a single hidden layer consisting of 4 neurons, using ReLU activation for the hidden layer and softmax for the output layer.
 
 <div align="center">
-  <img src="/All-My-Projects/DeepLearning - Images/Model1-Accuracy.png" alt="Model 1 Accuracy" width="50%" height="auto" />
+  <img src="DeepLearning - Images/Model1-Accuracy.png" alt="Model 1 Accuracy" width="50%" height="auto" />
 </div>
 
 ### Model 2: Two Hidden Layers with LeakyReLU and ReLU
 A more complex model featuring two hidden layers. The first hidden layer uses LeakyReLU activation, and the second uses ReLU.
 
 <div align="center">
-  <img src="/All-My-Projects/DeepLearning - Images/Model2-accuracy.png" alt="Model 2 Accuracy" width="50%" height="auto" />
+  <img src="DeepLearning - Images/Model2-accuracy.png" alt="Model 2 Accuracy" width="50%" height="auto" />
 </div>
 
 ### Model 3: Two Hidden Layers with Mixed Activation Functions
 This model combines LeakyReLU in the first hidden layer with a sigmoid activation in the second, aiming to explore the effects of different activation functions on performance.
 
 <div align="center">
-  <img src="/All-My-Projects/DeepLearning - Images/Model3-Accuracy.png" alt="Model 3 Accuracy" width="50%" height="auto" />
+  <img src="DeepLearning - Images/Model3-Accuracy.png" alt="Model 3 Accuracy" width="50%" height="auto" />
 </div>
 
 ## 📊 Model Evaluation
@@ -69,18 +71,19 @@ Performance across models is evaluated using training and validation accuracy, a
 * Model 2: Improved Performance with Two Layers
 * Model 3: Experimentation with Mixed Activations
 <div align="center">
-  <img src="/All-My-Projects/DeepLearning - Images/Model-Accuracy-Comparaison.png" alt="Validation Accuracy Comparison" width="50%" height="auto" />
+  <img src="DeepLearning - Images/Model-Accuracy-Comparaison.png" alt="Validation Accuracy Comparison" width="50%" height="auto" />
 </div>
 
 ### Loss Analysis
 The project analyzes both training and validation loss across the models to identify overfitting and underfitting scenarios.
 
 <div align="center">
-  <img src="/All-My-Projects/DeepLearning - Images/training-loss-comparaison.png" alt="Loss Comparison" width="50%" height="auto" />
+  <img src="DeepLearning - Images/training-loss-comparaison.png" alt="Loss Comparison" width="50%" height="auto" />
 </div>
 <div align="center">
-  <img src="/All-My-Projects/DeepLearning - Images/ValisationLoss-comparaison.png" alt="Validation Loss Comparison" width="50%" height="auto" />
+  <img src="DeepLearning - Images/ValisationLoss-comparaison.png" alt="Validation Loss Comparison" width="50%" height="auto" />
 </div>
+
 
 
 
