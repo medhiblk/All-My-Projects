@@ -39,6 +39,12 @@ This project uses various ensemble methods to predict whether a patient has canc
 
   [View the Cancer Prediction Project Here](https://github.com/medhiblk/All-My-Projects/tree/main/Advanced%20ML-Cancer%20Prediction)
 
+### Acoustic Features Modeling
+- **Acoustic Features Modeling**  
+This project focuses on predicting the emotional class of a person based on acoustic features using neural network models. The goal is to model the acoustic characteristics associated with different emotional states.
+
+  [View the Acoustic Features Modeling Project Here](https://github.com/medhiblk/All-My-Projects/tree/main/Acoustic%20Features%20Modeling)
+
 
 ### GPTs
 - **JuriBot - Your French Law Assistant**  
