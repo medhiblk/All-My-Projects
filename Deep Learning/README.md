@@ -3,6 +3,7 @@
 </div>
 
 # 🎵 Acoustic Features Modeling
+
 ## 📝 About the Project
 This project focuses on predicting the emotional class (e.g., sad, angry, happy, relaxed) of a person based on acoustic features using neural network models. The primary goal is to use various features from the dataset to determine the emotion, thus modeling the acoustic characteristics associated with different emotional states.
 
@@ -24,15 +25,16 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
 
-'''
+```
 git clone https://github.com/medhiblk/All-My-Projects.git
 cd "All-My-Projects/Acoustic Features Modeling"
-'''
+```
 
 2. Install the required dependencies:
-'''
+
+```
 pip install -r requirements.txt
-'''
+```
 
 
 ## 🎨 Features
@@ -52,23 +54,27 @@ A basic neural network with a single hidden layer consisting of 4 neurons, using
 A more complex model featuring two hidden layers. The first hidden layer uses LeakyReLU activation, and the second uses ReLU.
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*tLUhrb27BKMtXAXRfy15Vw.png" alt="LeakyReLU and ReLU" width="50%" height="auto" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*kX9LHprT58gNWPwCVsdeTA.png" alt="LeakyReLU and ReLU" width="50%" height="auto" />
 </div>
 
 ### Model 3: Two Hidden Layers with Mixed Activation Functions
 This model combines LeakyReLU in the first hidden layer with a sigmoid activation in the second, aiming to explore the effects of different activation functions on performance.
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1157/1157030.png" alt="Neural Network" width="50" height="auto" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x2wPJpaO8Pz0iHRR9B-EJxGKBxOOc-wPTg&s" alt="Neural Network" width="50" height="auto" />
 </div>
 
 ## 📊 Model Evaluation
 Performance across models is evaluated using training and validation accuracy, as well as loss comparisons. Below are the results:
 
+PUT RESULTS THERE
+
+
 ### Training & Validation Accuracy
-Model 1: Basic Accuracy
-Model 2: Improved Performance with Two Layers
-Model 3: Experimentation with Mixed Activations
+* Model 1: Basic Accuracy
+* Model 2: Improved Performance with Two Layers
+* Model 3: Experimentation with Mixed Activations
+  
 ### Loss Analysis
 The project analyzes both training and validation loss across the models to identify overfitting and underfitting scenarios.
 
