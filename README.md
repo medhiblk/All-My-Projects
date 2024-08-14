@@ -43,13 +43,13 @@ This project uses various ensemble methods to predict whether a patient has canc
 - **Donald Trump Communication Analysis on Twitter**  
 This project explores and analyzes the communication strategies of Donald Trump on Twitter by examining over 58,000 tweets. The analysis uncovers patterns, trends, and sentiments in his social media interactions.
 
-  [View the Donald Trump Communication Analysis Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Machine%20Learning/README.md))
+  [View the Donald Trump Communication Analysis Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Machine%20Learning/README.md)
 
 ### Real Estate Market Data Exploration in Toulouse and Its Suburbs
 - **Real Estate Market Data Exploration in Toulouse and Its Suburbs**  
 This project aims to understand the real estate market dynamics in Toulouse by analyzing data from the past five years. The analysis identifies key trends, pricing patterns, and market differences to inform investment and development decisions.
 
-  [View the Real Estate Market Data Exploration Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Machine%20Learning/README.md))
+  [View the Real Estate Market Data Exploration Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Machine%20Learning/README.md)
 
 ### Acoustic Features Modeling
 - **Acoustic Features Modeling**  
