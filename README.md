@@ -43,7 +43,7 @@ This project uses various ensemble methods to predict whether a patient has canc
 - **Acoustic Features Modeling**  
 This project focuses on predicting the emotional class of a person based on acoustic features using neural network models. The goal is to model the acoustic characteristics associated with different emotional states.
 
-  [View the Acoustic Features Modeling Project Here](https://github.com/medhiblk/All-My-Projects/tree/main/Acoustic%20Features%20Modeling)
+  [View the Acoustic Features Modeling Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Deep%20Learning/README.md))
 
 
 ### GPTs
