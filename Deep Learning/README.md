@@ -21,13 +21,8 @@ To create a neural network model that predicts the emotional state of an individ
 - **Model Evaluation:** Comparing model performance in terms of accuracy and loss.
 
 ## 🛠️ Tools & Libraries Used
-## 🛠️ Libraries Used
 
-  <!-- Python -->
-  <div style="margin-top: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="Python" width="100" style="margin: 10px;"/>  
-  </div>
-</div>
+
 
 <div align="center">
   <!-- Main Libraries -->
@@ -39,6 +34,19 @@ To create a neural network model that predicts the emotional state of an individ
     <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="80" style="margin: 10px;"/>  
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IJhNVZ2UNFUlsJoPlVH3I_xuPqBVTa1GRA&s" alt="Scikit-learn" width="80" style="margin: 10px;"/>  
   </div>
+
+  <!-- Python -->
+  <div style="margin-top: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="Python" width="100" style="margin: 10px;"/>  
+  </div>
+</div>
+
+<br/>
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love Badge" />
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="Built by Developers Badge" />
+</div>
+
 
 
 
