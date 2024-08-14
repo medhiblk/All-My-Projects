@@ -16,26 +16,24 @@ This project focuses on predicting the emotional class (e.g., sad, angry, happy,
 ## 🚀 Project Objective
 To create a neural network model that predicts the emotional state of an individual based on acoustic features. The project involves the following steps:
 
-Data Preprocessing: Handling missing values, encoding labels, and splitting the dataset into training and validation sets.
-Model Development: Building and training multiple neural network models with different architectures.
-Model Evaluation: Comparing model performance in terms of accuracy and loss.
+- **Data Preprocessing:** Handling missing values, encoding labels, and splitting the dataset into training and validation sets.
+- **Model Development:** Building and training multiple neural network models with different architectures.
+- **Model Evaluation:** Comparing model performance in terms of accuracy and loss.
 
 ## 🛠️ Installation
 To set up the project, follow these steps:
 
 1. Clone the repository:
 
-```
+```bash
 git clone https://github.com/medhiblk/All-My-Projects.git
 cd "All-My-Projects/Acoustic Features Modeling"
 ```
 
 2. Install the required dependencies:
-
-```
+```bash
 pip install -r requirements.txt
 ```
-
 
 ## 🎨 Features
 * Data Preprocessing: Includes handling of missing values, label encoding, and scaling.
@@ -47,41 +45,45 @@ pip install -r requirements.txt
 A basic neural network with a single hidden layer consisting of 4 neurons, using ReLU activation for the hidden layer and softmax for the output layer.
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5139/5139787.png" alt="Neural Network" width="50" height="auto" />
+  <img src="/mnt/data/image.png" alt="Model 1 Accuracy" width="50%" height="auto" />
 </div>
 
 ### Model 2: Two Hidden Layers with LeakyReLU and ReLU
 A more complex model featuring two hidden layers. The first hidden layer uses LeakyReLU activation, and the second uses ReLU.
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*kX9LHprT58gNWPwCVsdeTA.png" alt="LeakyReLU and ReLU" width="50%" height="auto" />
+  <img src="/mnt/data/image.png" alt="Model 2 Accuracy" width="50%" height="auto" />
 </div>
 
 ### Model 3: Two Hidden Layers with Mixed Activation Functions
 This model combines LeakyReLU in the first hidden layer with a sigmoid activation in the second, aiming to explore the effects of different activation functions on performance.
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x2wPJpaO8Pz0iHRR9B-EJxGKBxOOc-wPTg&s" alt="Neural Network" width="50" height="auto" />
+  <img src="/mnt/data/image.png" alt="Model 3 Accuracy" width="50%" height="auto" />
 </div>
 
 ## 📊 Model Evaluation
 Performance across models is evaluated using training and validation accuracy, as well as loss comparisons. Below are the results:
 
-PUT RESULTS THERE
-
-
-### Training & Validation Accuracy
+## Training & Validation Accuracy
 * Model 1: Basic Accuracy
 * Model 2: Improved Performance with Two Layers
 * Model 3: Experimentation with Mixed Activations
-  
+<div align="center">
+  <img src="/mnt/data/image.png" alt="Validation Accuracy Comparison" width="50%" height="auto" />
+</div>
+
 ### Loss Analysis
 The project analyzes both training and validation loss across the models to identify overfitting and underfitting scenarios.
+
+<div align="center">
+  <img src="/mnt/data/image.png" alt="Loss Comparison" width="50%" height="auto" />
+</div>
 
 ## 🎯 Conclusion & Future Work
 The models developed in this project currently show limited accuracy. Future work will involve refining these models by tuning hyperparameters, experimenting with different architectures, and possibly integrating additional features or techniques to improve performance.
 
-----
+---
 
 # 📬 Contact
 <p align="left">
@@ -90,9 +92,7 @@ The models developed in this project currently show limited accuracy. Future wor
     <a href="https://www.linkedin.com/in/medhi-balouka-5a5342189/" style="text-decoration: none; color: black;">Follow me on LinkedIn</a>
   </span>
 </p>
-
-----
+---
 
 # 🔗 Learn More
-For detailed insights and code, please visit the GitHub Repository.
-
+For detailed insights and continued updates on this project, stay connected on GitHub.
