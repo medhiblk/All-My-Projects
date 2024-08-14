@@ -20,6 +20,44 @@ To create a neural network model that predicts the emotional state of an individ
 - **Model Development:** Building and training multiple neural network models with different architectures.
 - **Model Evaluation:** Comparing model performance in terms of accuracy and loss.
 
+## 🛠️ Libraries Used
+
+<div align="left">
+  <img src="https://miro.medium.com/v2/resize:fit:1000/1*LkKz4wtZNBo5i-Vc8DWhTA.png" alt="TensorFlow and Keras" width="100" style="vertical-align: middle;"/>  
+  <span style="font-size: 18px; vertical-align: middle;">TensorFlow & Keras</span>
+</div>
+
+<div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="Python" width="40" style="vertical-align: middle;"/>  
+  <span style="font-size: 18px; vertical-align: middle;">Python</span>
+</div>
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="NumPy" width="100" style="vertical-align: middle;"/>  
+  <span style="font-size: 18px; vertical-align: middle;">NumPy</span>
+</div>
+
+<div align="left">
+  <img src="https://matplotlib.org/3.3.1/_static/logo2_compressed.svg" alt="Matplotlib" width="100" style="vertical-align: middle;"/>  
+  <span style="font-size: 18px; vertical-align: middle;">Matplotlib</span>
+</div>
+
+<div align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbk2Guoy3pIIK3-EqKfAMaUFnCY5zEOq20A&s" alt="Pandas" width="100" style="vertical-align: middle;"/>  
+  <span style="font-size: 18px; vertical-align: middle;">Pandas</span>
+</div>
+
+<div align="left">
+  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="100" style="vertical-align: middle;"/>  
+  <span style="font-size: 18px; vertical-align: middle;">Seaborn</span>
+</div>
+
+<div align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IJhNVZ2UNFUlsJoPlVH3I_xuPqBVTa1GRA&s" alt="Scikit-learn" width="100" style="vertical-align: middle;"/>  
+  <span style="font-size: 18px; vertical-align: middle;">Scikit-learn</span>
+</div>
+
+
 ## 🛠️ Installation
 To set up the project, follow these steps:
 
