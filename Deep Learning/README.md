@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/medhi-balouka-5a5342189/">
     <img src="https://img.shields.io/badge/LinkedIn-Medhi%20Balouka-blue" alt="LinkedIn" />
   </a>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </p>
 
 ## 📝 About the Project
