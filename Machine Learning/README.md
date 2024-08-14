@@ -20,6 +20,9 @@ This project aims to explore and analyze the communication strategies of Donald 
 - Top hashtags and user mentions.
 - Major themes and topics, including their evolution over time.
 
+
+[View the Donald Trump Communication Analysis Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Machine%20Learning/NLP%20-%20Text%20Analysis%2C%20Sentiment%20about%20Twitter%20Presidential%20in%20the%20USA/NLP_Project-Donald_Trump_Communication_Analysis_on_Twitter.ipynb)
+
 ### 2. Real Estate Market Data Exploration in Toulouse and Its Suburbs
 
 ### Objective: 
@@ -30,6 +33,8 @@ The goal of this project is to deeply understand the real estate market dynamics
 - Data Visualization: Implemented using Python libraries such as Seaborn to illustrate findings clearly.
 - Statistical Analysis: Explored relationships between variables to understand factors influencing property prices and market dynamics.
 
+  [View the Real Estate Market Data Exploration Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Machine%20Learning/Real%20Estate%20price%20estimator/Machine%20learning%20for%20data%20science-Real_Estate_Market_Data_Exploration_in_Toulouse_and_its_suburbs.ipynb)
+  
 ### Key Insights:
 - Evolution of real estate prices and price per square meter.
 - Identification and analysis of outlier transactions.
