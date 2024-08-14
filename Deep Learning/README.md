@@ -52,9 +52,7 @@ A basic neural network with a single hidden layer consisting of 4 neurons, using
 ### Model 2: Two Hidden Layers with LeakyReLU and ReLU
 A more complex model featuring two hidden layers. The first hidden layer uses LeakyReLU activation, and the second uses ReLU.
 
-<div align="center">
-  <img src="DeepLearning - Images/Model2-accuracy.png" alt="Model 2 Accuracy" width="50%" height="auto" />
-</div>
+![Model 2 Accuracy Plot](DeepLearning%20-%20Images/Model2-accuracy.png)
 
 ### Model 3: Two Hidden Layers with Mixed Activation Functions
 This model combines LeakyReLU in the first hidden layer with a sigmoid activation in the second, aiming to explore the effects of different activation functions on performance.
