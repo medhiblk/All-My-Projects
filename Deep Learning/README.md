@@ -3,6 +3,19 @@
 </div>
 
 # 🎵 Acoustic Features Modeling
+ 
+<!-- Badges -->
+<p>
+  <a href="https://github.com/medhiblk/All-My-Projects/graphs/contributors">
+    <img src="https://img.shields.io/badge/contributors-1-brightgreen" alt="contributors" />
+  </a>
+  <a href="https://github.com/medhiblk/All-My-Projects/commits/main">
+    <img src="https://img.shields.io/github/last-commit/medhiblk/All-My-Projects" alt="last update" />
+  </a>
+  <a href="https://www.linkedin.com/in/medhi-balouka-5a5342189/">
+    <img src="https://img.shields.io/badge/LinkedIn-Medhi%20Balouka-blue" alt="LinkedIn" />
+  </a>
+</p>
 
 ## 📝 About the Project
 This project focuses on predicting the emotional class (e.g., sad, angry, happy, relaxed) of a person based on acoustic features using neural network models. The primary goal is to use various features from the dataset to determine the emotion, thus modeling the acoustic characteristics associated with different emotional states.
