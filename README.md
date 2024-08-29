@@ -31,22 +31,22 @@ For now, I've just started uploading a few projects, and I'll be continuously ad
 
 ---
 
-## 📈 Featured Projects
+## 📈 Featured Projects - Done at School
 
 ### Cancer Prediction Using Ensemble Methods
-- **Cancer Prediction Using Ensemble Methods**  
+- **Predict occurence of an event**  
 This project uses various ensemble methods to predict whether a patient has cancer based on medical data. It leverages models like Random Forest, AdaBoost, and Stacking to improve prediction accuracy.
 
   [View the Cancer Prediction Project Here](https://github.com/medhiblk/All-My-Projects/tree/main/Advanced%20ML-Cancer%20Prediction)
 
 ### Donald Trump Communication Analysis on Twitter
-- **Donald Trump Communication Analysis on Twitter**  
+- **Sentiment Analysis**  
 This project explores and analyzes the communication strategies of Donald Trump on Twitter by examining over 58,000 tweets. The analysis uncovers patterns, trends, and sentiments in his social media interactions.
 
   [View the Donald Trump Communication Analysis Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Machine%20Learning/README.md)
 
 ### Real Estate Market Data Exploration in Toulouse and Its Suburbs
-- **Real Estate Market Data Exploration in Toulouse and Its Suburbs**  
+- **Forecast of a numerical variable based on several factors**  
 This project aims to understand the real estate market dynamics in Toulouse by analyzing data from the past five years. The analysis identifies key trends, pricing patterns, and market differences to inform investment and development decisions.
 
   [View the Real Estate Market Data Exploration Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Machine%20Learning/README.md)
@@ -58,9 +58,9 @@ This project focuses on predicting the emotional class of a person based on acou
   [View the Acoustic Features Modeling Project Here](https://github.com/medhiblk/All-My-Projects/blob/main/Deep%20Learning/README.md))
 
 
-### GPTs
+### GPTs, GenAI Bot in the GPT store
 - **JuriBot - Your French Law Assistant**  
-If you're looking for assistance with French laws, you can use **JuriBot**, an AI model trained specifically on French legal texts. This GPT-powered assistant can help you navigate complex legal issues, answer questions, and provide relevant legal information.
+Used by over 500 of user, imagine you're looking for assistance with French laws, you can use **JuriBot**, an AI model trained specifically on French legal texts. This GPT-powered assistant can help you navigate complex legal issues, answer questions, and provide relevant legal information.
 
   [Try JuriBot Here](https://chatgpt.com/g/g-i0qAN3WiP-juribot-france)
 
